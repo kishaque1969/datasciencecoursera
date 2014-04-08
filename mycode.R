@@ -6,5 +6,6 @@ myfunction <- function()
 
 myfunction2 <- function(x)
 {
+  ##Test
   x + rnorm(length(x))
 }
